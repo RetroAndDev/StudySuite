@@ -10,5 +10,39 @@
   <h2 style="width: 100%; text-align: center;">Liste d'Applications</h2>
   <img src="./Images/AltDirecte-Logo.png" alt="AltDirecte" width="100" height="100" style="margin: 0 25px;">
   <img src="./Images/StudySuite-Logo.png" alt="StudyTogether" width="100" height="100" style="margin: 0 25px;">
-  <img src="./Images/MS-Word-Logo.png" alt="Word Preview" width="100" height="100" style="margin: 0 25px;">
+</div>
+
+<div align="center">
+	<h1 align="center">Roadmap</h1>
+	<table>
+	  <thead>
+	    <tr>
+	      <th>Date</th>
+	      <th>Operation</th>
+	      <th>Description</th>
+	    </tr>
+	  </thead>
+	  <tbody>
+	    <tr>
+	      <td>Lundi 13 Nov. 2023</td>
+	      <td>Déploiement BETA</td>
+	      <td>Déploiement de la première BETA dans une classe du lycée St-Jean (Besançon) pour régler les premiers gros bugs</td>
+	    </tr>
+	    <tr>
+	      <td>Mercredi 22 Nov. 2023</td>
+	      <td>Déploiement BETA (#2)</td>
+	      <td>Déploiement d'une BETA au lycée St-Jean (Besançon) pour tester l'app</td>
+	    </tr>
+	    <tr>
+	      <td>Début 2024</td>
+	      <td>Sortie en Version 1</td>
+	      <td>StudySuite sort en version 1 (finale) dans le lycée St-Jean (Besançon)</td>
+	    </tr>
+	    <tr>
+	      <td>Milieu/fin 2024</td>
+	      <td>Sortie en Open-Source</td>
+	      <td>Le code de l'API sera mis en open-source avec un tutoriel d'installation pour autoriser tous les lycées à héberger StudySuite</td>
+	    </tr>
+	  </tbody>
+	</table>
 </div>
