@@ -3,6 +3,9 @@
 	<h1 align="center">StudySuite</h1>
 	<p align="center">StudySuite est une suite de logiciels pour les étudiants. Elle intègre des applications conçues pour aider les étudiants dans leurs études et leur permettre de s'entraider</p>
 	<h5 align="center">Note : StudySuite est en cours de développement, si vous rencontrez un bug, signalez-le depuis l'application ou via les Issues sur la page du GitHub projet.</h5>
+
+<p align="center">Les version BETAs sont disponible ici : <a href="https://github.com/RetroAndDev/StudySuite_Betas">StudySuite Betas</a></p>
+<p align="center">Notez qu'il vous faut un e-mail scolaire. Pour voir la liste des établissement supportés c'est <a href="https://github.com/RetroAndDev/StudySuite/wiki/%C3%89tablissements-Support%C3%A9s">ici</a></p>
 </div>
 
 <div align="center">
