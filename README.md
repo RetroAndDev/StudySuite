@@ -4,6 +4,8 @@
 	<p align="center">StudySuite est une suite de logiciels pour les étudiants. Elle intègre des applications conçues pour aider les étudiants dans leurs études et leur permettre de s'entraider</p>
 	<h5 align="center">Note : StudySuite est en cours de développement, si vous rencontrez un bug, signalez-le depuis l'application ou via les Issues sur la page du GitHub projet.</h5>
 
+<p align="center">Pour en apprendre plus sur StudySuite : <a href="https://studysuite.alwaysdata.net/">StudySuite : Les logiciels étudiants innovants</a></p>
+
 <p align="center">Les version BETAs sont disponible ici : <a href="https://github.com/RetroAndDev/StudySuite_Betas">StudySuite Betas</a></p>
 <p align="center">Notez qu'il vous faut un e-mail scolaire. Pour voir la liste des établissement supportés c'est <a href="https://github.com/RetroAndDev/StudySuite/wiki/%C3%89tablissements-Support%C3%A9s">ici</a></p>
 </div>
@@ -32,17 +34,17 @@
 	      <td>Déploiement de la première BETA dans une classe du lycée St-Jean (Besançon) pour régler les premiers gros bugs</td>
 	    </tr>
 	    <tr>
-	      <td>Mercredi 22 Nov. 2023</td>
-	      <td>Déploiement BETA (#2)</td>
-	      <td>Déploiement d'une BETA au lycée St-Jean (Besançon) pour tester l'app</td>
+	      <td>1 février 2024</td>
+	      <td>Sortie en Version 1.0.0</td>
+	      <td>StudySuite sort en version 1.0.0 (finale) dans le lycée St-Jean (Besançon)</td>
+	    </tr>
+		<tr>
+	      <td>Mi-2024</td>
+	      <td>Sortie en France</td>
+	      <td>Tous les étudiants français pourront utiliser StudySuite avec un compte personnel (mais limité)</td>
 	    </tr>
 	    <tr>
-	      <td>Début 2024</td>
-	      <td>Sortie en Version 1</td>
-	      <td>StudySuite sort en version 1 (finale) dans le lycée St-Jean (Besançon)</td>
-	    </tr>
-	    <tr>
-	      <td>Milieu/fin 2024</td>
+	      <td>Fin 2024</td>
 	      <td>Sortie en Open-Source</td>
 	      <td>Le code de l'API sera mis en open-source avec un tutoriel d'installation pour autoriser tous les lycées à héberger StudySuite</td>
 	    </tr>
